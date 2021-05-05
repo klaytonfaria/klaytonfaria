@@ -1,4 +1,7 @@
-### Hi there 👋
+### Yo, I'm Klayton Faria 👋
+
+
+An unpopular coder • christian • husband • dad • front-end • Made in 🇧🇷
 
 <!--
 **klaytonfaria/klaytonfaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Get in touch
+- Twitter: https://twitter.com/klaytonfaria
+- Instagram: https://instagram.com/klaytonfaria
+- LinkedIn: https://www.linkedin.com/in/klaytonfaria
