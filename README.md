@@ -21,7 +21,4 @@ Here are some ideas to get you started:
 ## Get in touch
 - 🦜 Twitter: https://twitter.com/klaytonfaria
 - 👕 LinkedIn: https://www.linkedin.com/in/klaytonfaria
-- 🎨 Codepen: http://codepen.io/klaytonfaria
 - 💬 Telegram: https://t.me/klaytonfaria
-- 📷 Instagram: https://instagram.com/klaytonfaria
-- 🌄 500px: https://500px.com/p/klaytonfaria
